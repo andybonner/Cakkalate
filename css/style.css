@@ -1,11 +1,12 @@
 /* To do: alter the position of the decimal, or try another font */
 body {
   background-color: darkslategray;
+  height: 100vh;
 }
 
 .container {
   width: 320px;
-  max-height: 470px;
+  height: 100%;
 }
 
 .card {
